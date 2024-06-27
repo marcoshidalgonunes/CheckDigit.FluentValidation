@@ -1,0 +1,15 @@
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\bin\Debug\net8.0\CheckDigit.FluentValidation.deps.json
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\bin\Debug\net8.0\CheckDigit.FluentValidation.dll
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\bin\Debug\net8.0\CheckDigit.FluentValidation.pdb
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\bin\Debug\net8.0\CheckDigit.dll
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\bin\Debug\net8.0\CheckDigit.pdb
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\CheckDigit.FluentValidation.csproj.AssemblyReference.cache
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\CheckDigit.FluentValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\CheckDigit.FluentValidation.AssemblyInfoInputs.cache
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\CheckDigit.FluentValidation.AssemblyInfo.cs
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\CheckDigit.FluentValidation.csproj.CoreCompileInputs.cache
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\CheckDig.F4C702F9.Up2Date
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\CheckDigit.FluentValidation.dll
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\refint\CheckDigit.FluentValidation.dll
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\CheckDigit.FluentValidation.pdb
+C:\Users\marcos.hidalgo.nunes\Workspaces\CheckDigit.FluentValidation\src\CheckDigit.FluentValidation\obj\Debug\net8.0\ref\CheckDigit.FluentValidation.dll
