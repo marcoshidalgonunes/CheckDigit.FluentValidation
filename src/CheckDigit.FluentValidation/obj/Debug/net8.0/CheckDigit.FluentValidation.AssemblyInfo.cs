@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CheckDigit.FluentValidation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a4f214e6c323cf26755e7d448657ab78e8717a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CheckDigit.FluentValidation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CheckDigit.FluentValidation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

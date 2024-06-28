@@ -4,8 +4,6 @@ namespace CheckDigit.FluentValidation;
 
 public static class Modulus10ValidatorExtensions
 {
-    private static readonly Modulus10Compute _compute = new();
-
     public static IRuleBuilderOptions<T, long> HasValidModulus10<T>(this IRuleBuilder<T, long> ruleBuilder)
     {
         return ruleBuilder.SetValidator(new NumericModulus10Validator<T>());
