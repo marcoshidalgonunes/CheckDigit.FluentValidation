@@ -1,4 +1,4 @@
-# CheckDigit.FluentValidation.Documentos
+# CheckDigit.FluentValidation.Documento
 
 Biblioteca .NET Core em C# com classes para validar dígitos verificadores de CPF e CNPJ usando Fluent Validation, incluindo o novo CNPJ alfanumérico.
 
