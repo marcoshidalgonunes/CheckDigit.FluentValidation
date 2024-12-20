@@ -7,11 +7,20 @@
     <Version>0.9.1</Version>
     <FileVersion>0.9.1.0</FileVersion>
     <AssemblyVersion>0.9.1.0</AssemblyVersion>
+    <Description>Biblioteca .NET Core em C# com classes para validar dígitos verificadores de CPF e CNPJ usando Fluent Validation, incluindo o novo CNPJ alfanumérico.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="CheckDigit.Documento" Version="0.9.1" />
     <PackageReference Include="FluentValidation" Version="11.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>

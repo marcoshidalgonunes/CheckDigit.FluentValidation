@@ -7,11 +7,20 @@
     <Version>0.9.1</Version>
     <FileVersion>0.9.1.0</FileVersion>
     <AssemblyVersion>0.9.1.0</AssemblyVersion>
+    <Description>.NET Core C# library containing classes to validate check digits using Fluent Validation.</Description>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="CheckDigit" Version="0.9.1" />
     <PackageReference Include="FluentValidation" Version="11.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
