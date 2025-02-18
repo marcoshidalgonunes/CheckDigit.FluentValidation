@@ -12,7 +12,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="CheckDigit" Version="0.9.1" />
+    <PackageReference Include="CheckDigit" Version="0.9.2" />
     <PackageReference Include="FluentValidation" Version="11.11.0" />
   </ItemGroup>
 
