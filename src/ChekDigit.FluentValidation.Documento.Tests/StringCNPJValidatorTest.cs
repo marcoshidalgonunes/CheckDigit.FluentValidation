@@ -103,14 +103,15 @@ public class StringCNPJValidatorTest
     public void InvalidateNumericMaskString()
     {
         // Arrange
-        ObjectWithDocumentString objectWithDocumentString = new() { Documento = "01.234.567/0001-59" };
+        ObjectWithDocumentString objectWithDocumentString = new() { Documento = "01.234.567-0001/95" };
         ObjectWithDocumentStringValidator validator = new();
 
         // Act
-        var result = validator.Validate(objectWithDocumentString);
+        void act() => validator.Validate(objectWithDocumentString);
 
         // Assert
-        Assert.False(result.IsValid);
+        ArgumentException exception = Assert.Throws<ArgumentException>(act);
+        Assert.Equal("CNPJ deve estar no formato XX.XXX.XXX/XXXX-99", exception.Message);
     }
 
     [Fact]
