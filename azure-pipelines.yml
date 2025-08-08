@@ -15,16 +15,16 @@ steps:
     packageType: 'sdk'
     version: '8.0.100'
 
-- script: dotnet restore src/CheckDigit.FluentValidationsln
+- script: dotnet restore src/CheckDigit.FluentValidation.sln
   displayName: 'Restore NuGet Packages'
 
-- script: dotnet test src/CheckDigit.FluentValidationsln
+- script: dotnet test src/CheckDigit.FluentValidation.sln
   displayName: 'Run tests'
 
-- script: dotnet build src/CheckDigit.FluentValidationsln --configuration $(buildConfiguration) --no-restore
+- script: dotnet build src/CheckDigit.FluentValidation.sln --configuration $(buildConfiguration) --no-restore
   displayName: 'Build Solution'
 
-- script: dotnet pack src/CheckDigit/CheckDigit.FluentValidationcsproj --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
+- script: dotnet pack src/CheckDigit/CheckDigit.FluentValidation.csproj --configuration $(buildConfiguration) --output $(Build.ArtifactStagingDirectory)
   displayName: 'Pack Project'
 
 - script: dotnet nuget push $(Build.ArtifactStagingDirectory)/*.nupkg --api-key $(System.AccessToken) --source https://pkgs.dev.azure.com/marcoshidalgonunes/CheckDigit/_packaging/CheckDigit/nuget/v3/index.json
