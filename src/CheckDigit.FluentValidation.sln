@@ -7,10 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckDigit.FluentValidation
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CheckDigit.FluentValidation.Tests", "CheckDigit.FluentValidation.Tests\CheckDigit.FluentValidation.Tests.csproj", "{655C6B00-C3EB-4127-B270-421467FB8A1F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckDigit.FluentValidation.Documento", "CheckDigit.FluentValidation.Documento\CheckDigit.FluentValidation.Documento.csproj", "{BE05CD97-8746-4CC4-953C-C2225FA6F010}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChekDigit.FluentValidation.Documento.Tests", "ChekDigit.FluentValidation.Documento.Tests\ChekDigit.FluentValidation.Documento.Tests.csproj", "{AC61F9F6-E410-4118-A6FC-FF399D199F35}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
