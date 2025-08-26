@@ -1,6 +1,6 @@
 # CheckDigit.FluentValidation
 
-**CheckDigit.FluentValidation** is a .NET 8 library that provides reusable FluentValidation validators for check digit algorithms. It enables developers to easily validate check digits in various contexts, such as document numbers, barcodes, and other identifiers that use check digits for error detection.
+**CheckDigit.FluentValidation** is a .NET 8 library that provides reusable [FluentValidation](https://docs.fluentvalidation.net/en/latest/) validators for check digit algorithms. It enables developers to easily validate check digits in various contexts, such as document numbers, barcodes, and other identifiers that use check digits for error detection.
 
 ## Features
 
