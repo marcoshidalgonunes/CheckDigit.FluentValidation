@@ -59,7 +59,7 @@ See the `CheckDigit.FluentValidation.Tests` project for comprehensive unit tests
 
 ## License
 
-This library is licensed under the [GNU General Public License v3.0](../LICENSE).
+This library is licensed under the [GNU General Public License v3.0](./LICENSE).
 
 ## Contributing
 
